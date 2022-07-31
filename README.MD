@@ -27,7 +27,7 @@ A logging library for java
 
 ## Usage/Examples
 
-Call an Event:
+Log stuff:
 
 ```java
 import com.github.sebyplays.logmanager.utils.Logger;
