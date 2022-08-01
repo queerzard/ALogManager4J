@@ -4,7 +4,7 @@ A logging library for java
 
 ## Maven Installation
 
-```maven
+```xml
 
 <repository>
   <id>reposilite-repository</id>
