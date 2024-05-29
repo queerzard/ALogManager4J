@@ -6,17 +6,17 @@ A logging library for java
 
 ```xml
 
-<repository>
-  <id>reposilite-repository</id>
-  <name>Seby's Project Repository</name>
-  <url>http://mcsilent.de:8091/{repository}</url>
-</repository>
-
-<dependency>
-  <groupId>com.github.sebyplays</groupId>
-  <artifactId>JLogManager</artifactId>
-  <version>1.0-SNAPSHOT</version>
-</dependency>
+	<repositories>
+		<repository>
+		    <id>jitpack.io</id>
+		    <url>https://jitpack.io</url>
+		</repository>
+	</repositories>
+	<dependency>
+	    <groupId>com.github.queerzard</groupId>
+	    <artifactId>ALogManager4J</artifactId>
+	    <version>-c2c3d53157-1</version>
+	</dependency>
 ```
 
 ## Used libraries
